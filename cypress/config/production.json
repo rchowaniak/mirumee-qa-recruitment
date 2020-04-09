@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://demo.saleor.io",
+  "graphqlApi": "https://pwa.demo.saleor.rocks/graphql/"
+}

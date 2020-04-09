@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://demo.saleor.io",
+  "graphqlApi": "https://pwa.demo.saleor.rocks/graphql/",
+  "ignoreTestFiles": ["*.js", "*.md"],
+  "testFiles": "**/*.feature",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "test-results/test-output-[hash].xml"
+  },
+  "chromeWebSecurity": false
+}
